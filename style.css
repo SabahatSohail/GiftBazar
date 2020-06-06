@@ -1,0 +1,23 @@
+div > .navbar{background-color: darkviolet !important;   }
+.btn{ color: white;  background-color: darkviolet !important; }
+.allcategories{ margin-top: 40px; text-align: center; color: darkviolet;}
+.logo{height: 80px;}
+.carddiv1{ display: flex; height: auto; flex-wrap: wrap; justify-content: space-around !important; }
+.card-text{font-weight: bolder;}
+.card{margin: 20px 2px 20px 0px ; width: auto;}
+.information{ justify-content: space-around; display: flex; flex-direction: row; background-color: darkviolet; color: white; }
+.heading{ margin-top: 40px; text-align: center; background-color: darkviolet; color: white; padding: 5px 0px;}
+.input{width: 450px; border-radius: 10px;}
+.submit{width: 450px; background-color: darkviolet; color: white;}
+.submit:hover{background-color: blue; color: white;}
+.login, .signup{height: 300px; width: 100px; border: 2px solid black;}
+.username{width: 200px; margin-left: 15px;}
+.password1{width: 200px; margin-left: 82px;}
+.loginbutton{width: 150px; height:50px; background-color: whitesmoke; color: black; margin-right: 3px; margin-top: 5px;}
+.loginbutton:hover{color: white; background-color: blue;}
+.firstname, .lastname{width: 250px; margin-left: 30px;}
+.email{width: 250px; margin-left: 67px;}
+.password2{width: 250px; margin-left: 37px;}
+.carousel{margin-top: 95px;}
+.topspace{margin-top: 125px;}
+.bottomspace{margin-top: 250px;}
